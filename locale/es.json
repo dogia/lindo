@@ -2,24 +2,24 @@
   "app": {
     "main": {
       "tab": {
-        "add": "Añadir juegos"
+        "add": "Añadir pestaña"
       },
       "head": {
         "toggle-audio-on": "Habilitar sonido",
-        "toggle-audio-off": "Mudo",
+        "toggle-audio-off": "Silenciar",
         "new-window": "Abrir una nueva ventana"
       },
       "prompt": {
         "tabs-overflow": {
-          "text": "Lindo does'nt support more than 6 tab per window, above that it can be laggy and buggy. But you can open a new window and it will be working just fine."
+          "text": "Lindo no está diseñado para conectar más de 6 cuentas por ventana, podría ir lento o con errores, pero siempre puedes abrir una nueva ventana para conectar más cuentas y todo estará bien."
         }
       }
     },
     "notifications": {
-      "fight-turn": "Inicio del torno de {{character}}",
-      "private-message": "Message de {{character}}",
-      "tax-collector": "A tax collector is attacked!",
-      "kolizeum": "A Kolizeum has been find !"
+      "fight-turn": "Inicio del turno de {{character}}",
+      "private-message": "Mensaje de {{character}}",
+      "tax-collector": "Un recaudador está siendo atacado!",
+      "kolizeum": "Un koliseo ha sido encontrado!"
     },
     "window": {
       "changelog": {
@@ -28,8 +28,8 @@
       },
       "master-password": {
         "continue": "Continuar",
-        "skip": "Omita este paso",
-        "password-label": "Introduzca la contraseña maestra",
+        "skip": "Omitir",
+        "password-label": "Introduzca la contraseña",
         "password-bad": "La contraseña es incorrecta"
       },
       "update-dofus": {
@@ -91,7 +91,7 @@
         "tab": {
           "application": "Programa",
           "interface": "Interfaz",
-          "spell": "Conjuros",
+          "spell": "Hechizos",
           "inventory": "Inventario",
           "other": "Diverso"
         }
@@ -267,8 +267,8 @@
         "description": "Puede recibir las notificaciones del juego Dofus cuando esta en otra applicación. Puede ser notificado :",
         "fight-turn": "Al inicio del torno (combate)",
         "private-message": "A la llegada de un mensaje privado",
-        "tax-collector": "When a tax collector is attacked",
-        "kolizeum": "When kolizeum fight is find"
+        "tax-collector": "Cuando un recaudador es atacado",
+        "kolizeum": "Cuando se ha encontrado un koliseo"
       },
       "reset": "Reiniciar",
       "save": "Validar",
